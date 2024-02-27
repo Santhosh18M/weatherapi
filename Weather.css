@@ -1,0 +1,67 @@
+.App {
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+    margin: 50px;
+    background-image: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fimages%2Fnature%2Fcloud&psig=AOvVaw0pCh6AIIEoE4LEQAXjMTDT&ust=1706276136283000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPCy1IrU-IMDFQAAAAAdAAAAABAE');
+   
+  }
+  
+  
+  .title {
+    color: #0e0d0d;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  
+  .input-container {
+    margin-top: 20px;
+  }
+  
+  .input {
+    padding: 8px;
+    font-size: 16px;
+  }
+  
+  .button {
+    padding: 8px 16px;
+    font-size: 16px;
+    background-color: #0e58f7;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    margin-left: 10px;
+    border-radius: 10%;
+    
+  }
+  
+  .container {
+    margin-top: 20px;
+    border: 1px solid #ddd;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .city-name {
+    color: #f3082f;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+  }
+  
+  .weather-info {
+    margin-top: 10px;
+  }
+  
+  .temp {
+    font-size: 24px;
+    font-weight: bold;
+    color: #e67e22;
+  }
+  
+  .coordinated {
+    margin-top: 10px;
+    font-size: 14px;
+    color: #14e930;
+  }
+  
+  /* Add more styles as needed */
+  
